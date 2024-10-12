@@ -5,7 +5,7 @@ Use UQMI to send, receive, and delete SMS
 ## 1. Build
 
 ```shell
-go get uqmi-sms
+go get uqmi_sms
 ```
 
 ```shell
